@@ -1,4 +1,5 @@
 var animal = 'dog'
+const two = 2
 
 function myAnimal() {
   if (animal === 'cat') {
@@ -19,7 +20,7 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  const two = 2
+ 
 }
 
 var funkyFunction = function() {
